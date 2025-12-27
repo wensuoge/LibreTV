@@ -26,6 +26,91 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
+    },
+     {
+        api: 'http://lbapiby.com/api.php/provide/vod',
+        name: 'AV-AIvin',
+        adult: true
+    },
+     {
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: 'AV-乐播资源',
+        adult: true
+    },
+     {
+        api: 'https://Naixxzy.com/api.php/provide/vod',
+        name: 'AV-乐播资源',
+        adult: true
+    },
+     {
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: 'AV-奶香香 散装',
+        adult: true
+    },
+     {
+        api: 'https://slapibf.com/api.php/provide/vod',
+        name: 'AV-森林资源 散装',
+        adult: true
+    },
+     {
+        api: 'https://www.xrbsp.com/api/json.php',
+        name: 'AV-淫水机资源 散装',
+        adult: true
+    },
+     {
+        api: 'https://apiyutu.com/api.php/provide/vod',
+        name: 'AV-玉兔资源 散装',
+        adult: true
+    },
+     {
+        api: 'https://www.kxgav.com/api/json.php',
+        name: 'AV-白嫖资源 散装',
+        adult: true
+    },
+     {
+        api: 'https://www.msnii.com/api/json.php',
+        name: 'AV-美少女资源 散装',
+        adult: true
+    },
+     {
+        api: 'https://apilsbzy1.com/api.php/provide/vod',
+        name: 'AV-老色逼资源',
+        adult: true
+    },
+     {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: '91麻豆',
+        adult: true
+    },
+     {
+        api: 'https://api.sexnguon.com/api.php/provide/vod',
+        name: '色嗨国',
+        adult: true
+    },
+     {
+        api: 'https://api.maozyapi.com/inc/apijson_vod.php',
+        name: '色猫资源',
+        adult: true
+    },
+     {
+        api: 'https://apilj.com/api.php/provide/vod',
+        name: '辣椒资源',
+        adult: true
+    },
+     {
+        api: 'https://www.gdlsp.com/api/json.php',
+        name: '香奶儿资源',
+        adult: true
+    },
+     {
+        api: 'https://shayuapi.com/api.php/provide/vod',
+        name: '鲨鱼资源',
+        adult: true
+    },
+     {
+        api: 'https://www.pgxdy.com/api/json.php',
+        name: '黄AV资源',
+        adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
